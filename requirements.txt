@@ -1,0 +1,11 @@
+Flask
+google-generativeai
+pyttsx3
+inflect
+emoji
+librosa
+matplotlib
+numpy
+gtts
+pygame
+pydub
